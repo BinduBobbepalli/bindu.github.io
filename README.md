@@ -75,3 +75,8 @@ these are some images related to my project SKILL-STARTER
 ![course](https://user-images.githubusercontent.com/114553669/198523350-31655375-befe-4011-bf3e-9c6ee8d45da9.png)
 
 PROJECT LINK-https://red-grass-019f1b210.2.azurestaticapps.net
+
+GITHUB LINK-https://github.com/BinduBobbepalli/bindu.github.io
+
+EMAIL ID-bindubobbepalli555@gmail.com
+
