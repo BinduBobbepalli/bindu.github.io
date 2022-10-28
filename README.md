@@ -1,5 +1,3 @@
-![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_20](https://user-images.githubusercontent.com/114553669/198520021-0ec55d2d-bbc8-4b6a-9e84-61af7bd40018.png)
-![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_49](https://user-images.githubusercontent.com/114553669/198520029-82485b72-1914-43b5-952f-17ac54c76d5c.png)
 ***SKILL STARTER***
 
 
@@ -50,4 +48,6 @@ the servies that i used in azure are:
 **STATIC WEB PPS and VISUAL STUDIO CODE**
 static web app-A static site is the most basic kind of website, and the easiest to create. It requires no server-side (also called back-end) processing, only client-side. Client-side technologies are HTML, CSS, and JavaScript.
 ![image](https://user-images.githubusercontent.com/114553669/198518258-d07ead46-9195-4b75-bfd9-6be4e45d1b00.png)
+![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_49](https://user-images.githubusercontent.com/114553669/198520274-9225c4e1-fc09-44d4-ae05-81d62cb70fae.png)
+![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_20](https://user-images.githubusercontent.com/114553669/198520308-ea062714-e724-40fc-ab36-bf19b568c4d9.png)
 
