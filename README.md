@@ -1,6 +1,12 @@
 ***SKILL STARTER***
+
+
 This is my Future Ready Talent Project
+
+
 About Project-
+
+
 ***Learn Anytime, Anywhere. 
 Accelerate Your Future***
 ***SKILL- means an ability and capacity acquired through deliberate, systematic, and sustained effort to smoothly and adaptively carryout complex activities or job functions involving ideas (cognitive skills), things (technical skills), and/or people (interpersonal skills)***.
