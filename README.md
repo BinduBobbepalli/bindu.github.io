@@ -60,7 +60,8 @@ At its heart, Visual Studio Code features a lightning fast source code editor, p
 ![about html - bindu - Visual Studio Code 28-10-2022 12_15_40](https://user-images.githubusercontent.com/114553669/198521380-97d40efb-d09e-4f00-a386-
 these are some images related to my project SKILL-STARTER
 ![seminors](https://user-images.githubusercontent.com/114553669/198523553-19725fd8-5c62-4ba2-a2dd-2e65918b9821.png)
-73c39c39aba5.png)![p2](https://user-images.githubusercontent.com/114553669/198522983-e1f0a2ea-4887-4333-9500-b92b28624a9b.jpg)
+73c39c39aba5.png)
+![p2](https://user-images.githubusercontent.com/114553669/198522983-e1f0a2ea-4887-4333-9500-b92b28624a9b.jpg)
 ![p3](https://user-images.githubusercontent.com/114553669/198522989-73a04518-0182-460f-aafa-07a4a707c8f0.jpg)
 ![p4](https://user-images.githubusercontent.com/114553669/198522995-582c6767-5fc9-461e-b7e7-d701f21bde33.jpg)
 ![seminors](https://user-images.githubusercontent.com/114553669/198523003-1d80c314-2fe0-444d-b815-3ec1f8594614.png)
