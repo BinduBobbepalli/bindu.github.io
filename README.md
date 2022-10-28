@@ -46,13 +46,12 @@ The most common approach to skills development is training current workers (empl
    *Global fluency and perspective.
 the servies that i used in azure are:
 **STATIC WEB PPS and VISUAL STUDIO CODE**
-static web app-A static site is the most basic kind of website, and the easiest to create. It requires no server-side (also called back-end) processing, only client-side. Client-side technologies are HTML, CSS, and JavaScript.
+static web app-A static site is the most basic kind of website, and the easiest to create. It requires no server-side (also called back-end) processing, only client-side. Client-side technologies are HTML, CSS, and JavaScript.by this static web app service , I created a website SKILL.
 ![image](https://user-images.githubusercontent.com/114553669/198518258-d07ead46-9195-4b75-bfd9-6be4e45d1b00.png)
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_49](https://user-images.githubusercontent.com/114553669/198520274-9225c4e1-fc09-44d4-ae05-81d62cb70fae.png)
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_20](https://user-images.githubusercontent.com/114553669/198520308-ea062714-e724-40fc-ab36-bf19b568c4d9.png)
-visual studio code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. What is Visual Studio Code best for?
-Edit, build, and debug with ease#
-At its heart, Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. With support for hundreds of languages, VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.
+visual studio code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. Edit, build, and debug with ease#
+At its heart, Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. With support for hundreds of languages, VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.by this visual studo code service ,I created a website with respective coding languages like java etc
 ![about html - bindu - Visual Studio Code 28-10-2022 12_13_36](https://user-images.githubusercontent.com/114553669/198521060-863bd5f3-5a1d-4bd3-ac87-df09d2e558e4.png)
 ![index html - bindu - Visual Studio Code 28-10-2022 12_13_11](https://user-images.githubusercontent.com/114553669/198521077-92598c36-88cd-4a34-bda5-210a4f282a6e.png)
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_12_48](https://user-images.githubusercontent.com/114553669/198521090-fcc4a764-c3b5-441d-893d-5d2d7ba68100.png)
@@ -69,5 +68,5 @@ these are some images related to my project SKILL-STARTER
 ![g6](https://user-images.githubusercontent.com/114553669/198523208-3aafc75a-3e05-4b94-9490-2f1f5e538c66.jpg)
 ![g8](https://user-images.githubusercontent.com/114553669/198523223-04982db0-af35-45c0-92c8-4be85be0b072.jpg)
 ![library](https://user-images.githubusercontent.com/114553669/198523247-c60923ef-1b45-40e8-967d-d22726c387fe.png)
-![Uploading g3.jpg…]()
 ![course](https://user-images.githubusercontent.com/114553669/198523350-31655375-befe-4011-bf3e-9c6ee8d45da9.png)
+PROJECT LINK-https://red-grass-019f1b210.2.azurestaticapps.net
