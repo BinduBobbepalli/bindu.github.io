@@ -47,3 +47,5 @@ The most common approach to skills development is training current workers (empl
 the servies that i used in azure are:
 **STATIC WEB PPS and VISUAL STUDIO CODE**
 static web app-A static site is the most basic kind of website, and the easiest to create. It requires no server-side (also called back-end) processing, only client-side. Client-side technologies are HTML, CSS, and JavaScript.
+![image](https://user-images.githubusercontent.com/114553669/198518258-d07ead46-9195-4b75-bfd9-6be4e45d1b00.png)
+
