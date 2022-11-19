@@ -53,11 +53,9 @@ static web app-A static site is the most basic kind of website, and the easiest 
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_20](https://user-images.githubusercontent.com/114553669/198520308-ea062714-e724-40fc-ab36-bf19b568c4d9.png)
 visual studio code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. Edit, build, and debug with ease#
 At its heart, Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. With support for hundreds of languages, VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.by this visual studo code service ,I created a website with respective coding languages like java etc
-![about html - bindu - Visual Studio Code 28-10-2022 12_13_36](https://user-images.githubusercontent.com/114553669/198521060-863bd5f3-5a1d-4bd3-ac87-df09d2e558e4.png)
-![index html - bindu - Visual Studio Code 28-10-2022 12_13_11](https://user-images.githubusercontent.com/114553669/198521077-92598c36-88cd-4a34-bda5-210a4f282a6e.png)
+
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_12_48](https://user-images.githubusercontent.com/114553669/198521090-fcc4a764-c3b5-441d-893d-5d2d7ba68100.png)
-![about html - bindu - Visual Studio Code 28-10-2022 12_13_50](https://user-images.githubusercontent.com/114553669/198521356-ae810e15-b67f-48b0-abd3-8a963a793eae.png)
-![about html - bindu - Visual Studio Code 28-10-2022 12_15_40](https://user-images.githubusercontent.com/114553669/198521380-97d40efb-d09e-4f00-a386-
+
 these are some images related to my project SKILL-STARTER
 
 ![seminors](https://user-images.githubusercontent.com/114553669/198523553-19725fd8-5c62-4ba2-a2dd-2e65918b9821.png)
