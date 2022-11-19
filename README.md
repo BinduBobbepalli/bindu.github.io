@@ -79,4 +79,3 @@ PROJECT LINK-https://red-grass-019f1b210.2.azurestaticapps.net
 GITHUB LINK-https://github.com/BinduBobbepalli/bindu.github.io
 
 EMAIL ID-bindubobbepalli555@gmail.com
-
