@@ -54,7 +54,7 @@ static web app-A static site is the most basic kind of website, and the easiest 
 visual studio code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. Edit, build, and debug with ease#
 At its heart, Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. With support for hundreds of languages, VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.by this visual studo code service ,I created a website with respective coding languages like java etc
 
-![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_12_48](https://user-images.githubusercontent.com/114553669/198521090-fcc4a764-c3b5-441d-893d-5d2d7ba68100.png)
+
 
 these are some images related to my project SKILL-STARTER
 
