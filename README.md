@@ -73,7 +73,8 @@ Step 2: Create an Azure Static Web App and this step automatically generates a G
 
 ![Screenshot_20221120_005151](https://user-images.githubusercontent.com/114553669/202870184-17cf4251-8b16-46d5-84b7-62b4ef7d6637.png)
 
-![Screenshot_20221120_005203](https://user-images.githubusercontent.com/114553669/202870190-3e8319da-2610-432e-aa7f-12d05e253f3c.png)
+![Screenshot<img width="1019" alt="leaked-secret" src="https://user-images.githubusercontent.com/114553669/202871724-05f537e1-20ca-4fed-a3f4-1d784a87cf38.png">
+_20221120_005203](https://user-images.githubusercontent.com/114553669/202870190-3e8319da-2610-432e-aa7f-12d05e253f3c.png)
 
 * Creating the Static Web App instantly generates the .yml workflow file for you in GitHub
 
