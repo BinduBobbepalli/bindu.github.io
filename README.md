@@ -10,7 +10,7 @@ About Project-
 ***Learn Anytime, Anywhere. 
 Accelerate Your Future***
 
-            ***SKILL- means an ability and capacity acquired through deliberate, systematic, and sustained effort to smoothly and adaptively carryout complex activities or job functions involving ideas (cognitive skills), things (technical skills), and/or people (interpersonal skills)***.
+***SKILL- means an ability and capacity acquired through deliberate, systematic, and sustained effort to smoothly and adaptively carryout complex activities or job functions involving ideas (cognitive skills), things (technical skills), and/or people (interpersonal skills)***.
 *We believe everyone has the capacity to be creative. Skill is a place where people develop their own potential.
 * Many organizations offer professional development courses or other free training to people interested in growing their skills.
 You can find opportunities to learn skills on the job by asking your manager or connecting with your employer's human resources department in this SKILL STARTER.
