@@ -54,7 +54,11 @@ static web app-A static site is the most basic kind of website, and the easiest 
 visual studio code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. Edit, build, and debug with ease#
 At its heart, Visual Studio Code features a lightning fast source code editor, perfect for day-to-day use. With support for hundreds of languages, VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.by this visual studo code service ,I created a website with respective coding languages like java etc
 
-
+![Screenshot_20221120_005139](https://user-images.githubusercontent.com/114553669/202870150-cb0d6289-ae9d-48f2-bcee-f530d75e85d2.png)
+![Screenshot_20221120_005119](https://user-images.githubusercontent.com/114553669/202870167-a00a63e7-689e-49c8-9a6d-ee12f151f466.png)
+![Screenshot_20221120_005151](https://user-images.githubusercontent.com/114553669/202870184-17cf4251-8b16-46d5-84b7-62b4ef7d6637.png)
+![Screenshot_20221120_005203](https://user-images.githubusercontent.com/114553669/202870190-3e8319da-2610-432e-aa7f-12d05e253f3c.png)
+![visualstudiocode](https://user-images.githubusercontent.com/114553669/202870196-5d9f11b4-1d94-4b2a-9b5f-c495115c584f.png)
 ![Screenshot_20221119_223834](https://user-images.githubusercontent.com/114553669/202869260-9501417f-1a4a-4365-871a-441925e257af.png)
 ![Screenshot_20221119_224008](https://user-images.githubusercontent.com/114553669/202869269-4b264e2d-002f-442f-a625-4167434e7922.png)
 ![Screenshot_20221119_225009](https://user-images.githubusercontent.com/114553669/202869274-e17dde64-d01f-4afd-9959-c37f9da433e7.png)
