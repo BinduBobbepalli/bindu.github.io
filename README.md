@@ -77,7 +77,13 @@ Step 2: Create an Azure Static Web App and this step automatically generates a G
 
 * Creating the Static Web App instantly generates the .yml workflow file for you in GitHub
 
- 
+Step 1: Work on your project on VS Code
+
+Step 2: Install the Azure Account & Azure App Service Extensions on your editor, then sign into your Azure Account
+
+Step 3: Create a new web app and deploy your project, all this while you are still on your editor
+
+
 ![Screenshot_20221119_223834](https://user-images.githubusercontent.com/114553669/202869260-9501417f-1a4a-4365-871a-441925e257af.png)
 
 All you do is push your project change on GitHub and Azure handles the rest. (Sweet benefit of the continuous integration that comes with Azure Static Web Apps)
@@ -107,13 +113,6 @@ these are some images related to my project SKILL-STARTER
 
 ![seminors](https://user-images.githubusercontent.com/114553669/198523003-1d80c314-2fe0-444d-b815-3ec1f8594614.png)
 
-Step 1: Work on your project on VS Code
- 
-
-Step 2: Install the Azure Account & Azure App Service Extensions on your editor, then sign into your Azure Account
- 
- Step 3: Create a new web app and deploy your project, all this while you are still on your editor
- 
 
 
 ![p1](https://user-images.githubusercontent.com/114553669/198523004-5c2d33a3-6e88-46b0-b2a4-1a08b325ad86.jpg)
