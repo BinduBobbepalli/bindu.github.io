@@ -172,6 +172,10 @@ All you do is push your project change on GitHub and Azure handles the rest. (Sw
 
 
 
+Here we can see that deployment is successed through STATIC WEB APPS and VISUAL STUDIO CODE with the help of GITHUB
+
+
+
 ![Screenshot_20221120_093923](https://user-images.githubusercontent.com/114553669/202886831-a293d61c-cc1b-480a-a666-a3255a1f16dc.png)
 
 
