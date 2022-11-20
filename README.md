@@ -101,6 +101,14 @@ All you do is push your project change on GitHub and Azure handles the rest. (Sw
 
 ![Screenshot_20221119_232130](https://user-images.githubusercontent.com/114553669/202869286-4cc7581b-3518-4d30-b0cc-a9f5d817a177.png)
 
+![Screenshot_20221120_005733](https://user-images.githubusercontent.com/114553669/202886804-546a5aea-8b57-4732-adb1-3fb67686664c.png)
+
+![Screenshot_20221120_093554](https://user-images.githubusercontent.com/114553669/202886819-4fe8de17-663b-4d34-b8f0-b3bf682e328c.png)
+
+![Screenshot_20221120_093923](https://user-images.githubusercontent.com/114553669/202886831-a293d61c-cc1b-480a-a666-a3255a1f16dc.png)
+
+![Screenshot_20221120_094250](https://user-images.githubusercontent.com/114553669/202886842-10fcc98e-eb02-4e71-bf2a-2f8961ef1d90.png)
+
 these are some images related to my project SKILL-STARTER
 
 ![seminors](https://user-images.githubusercontent.com/114553669/198523553-19725fd8-5c62-4ba2-a2dd-2e65918b9821.png)
