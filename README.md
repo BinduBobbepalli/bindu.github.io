@@ -131,3 +131,7 @@ PROJECT LINK-https://red-grass-019f1b210.2.azurestaticapps.net
 GITHUB LINK-https://github.com/BinduBobbepalli/bindu.github.io
 
 EMAIL ID-bindubobbepalli555@gmail.com
+
+Skill Starter-Code Deployment through VISUAL STUDIO CODE which belongs to AZURE SERVICE 
+
+DEPLOYMENT LINK-https://drive.google.com/file/d/1uuoD3x5fHFdAw4jZa6Izgl3L1RYo9RCU/view?usp=share_link
