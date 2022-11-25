@@ -180,6 +180,79 @@ Step 3: Create a new web app and deploy your project, all this while you are sti
 
 
 
+Azure Static Web Apps for Visual Studio Code
+Use this extension to quickly create and manage Azure Static Web Apps directly from VS Code.
+
+Visit the wiki for additional information about the extension.
+
+Sign up today for your free Azure account and receive 12 months of free popular services, $200 free credit and 25+ always free services 👉 Start Free.
+
+Run and debug your static web app
+Debug static web app with a dynamic configuration
+
+✨ Check out Guide: Debugging a Static Web App with VS Code for instructions and more information about debugging a static web app.
+
+Create your first static web app
+Click the '+' button in the explorer to setup a new static web app
+
+Create Static Web App
+
+Select "Create Static Web App..."
+
+Create Static Web App
+
+Authorize access to your GitHub account so the extension can find your repositories
+
+Authorize Access to through GitHub
+
+Authorize Access to through GitHub
+
+Select a repository and branch that will be deployed to the static web app
+
+If your local project has a remote configured, the extension will default to that repository
+
+Provide the app folder name
+
+Location of your application code. For example, '/' represents the root of your app, while '/app' represents a directory called 'app'.
+
+Provide the api folder name (optional)
+
+Location of your Azure Functions code. For example, '/api' represents a folder called 'api'. If you don't have an Azure Functions project yet, don't worry! This is optional so just leave this blank.
+
+Provide the build artifact folder name
+
+The path of your build output relative to your apps location. For example, setting a value of 'build' when your app location is set to '/app' will cause the content at '/app/build' to be served.
+
+✨ See recommended settings for popular frameworks and libraries
+
+Updating your static web app
+Commit and push your changes to the GitHub repository that your static web app is configured to. It will then use GitHub Actions to update your app.
+
+If you create a pull request through GitHub, GitHub Actions will create a staging environment with your new changes live. Your Production environment and staging environments are all listed within your Static Web App as well as application settings.
+
+IMPORTANT: The application settings only apply to the backend API of an Azure Static Web App.
+
+Static Web App Environments
+
+Create a HTTP Function for your static web app
+You can add a serverless API to your static web app by creating a HTTP Functions project.
+
+Open your static web app project in your Visual Studio Code workspace
+
+Select the button to create a new HTTP Function
+
+Create HTTP Function
+
+Provide a HTTP Function name that is unique to your API
+
+If this is your first HTTP Function, select a language for your API
+
+Select Language
+
+Telemetry
+VS Code collects usage data and sends it to Microsoft to help improve our products and services. Read our privacy statement to learn more. If you don’t wish to send usage data to Microsoft, you can set the telemetry.enableTelemetry setting to false. Learn more in our FAQ.
+
+
 ![Screenshot_20221119_223834](https://user-images.githubusercontent.com/114553669/202869260-9501417f-1a4a-4365-871a-441925e257af.png)
 
 
