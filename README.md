@@ -155,21 +155,13 @@ MIT
 The Visual Studio Code logo is under the license of the Visual Studio Code product.
 ![Screenshot_20221120_005139](https://user-images.githubusercontent.com/114553669/202870150-cb0d6289-ae9d-48f2-bcee-f530d75e85d2.png)
 
-
-
-
 ![Screenshot_20221120_005119](https://user-images.githubusercontent.com/114553669/202870167-a00a63e7-689e-49c8-9a6d-ee12f151f466.png)
-
 
 
 ![Screenshot_20221120_005151](https://user-images.githubusercontent.com/114553669/202870184-17cf4251-8b16-46d5-84b7-62b4ef7d6637.png)
 
-
-
 ![Screenshot<img width="1019" alt="leaked-secret" src="https://user-images.githubusercontent.com/114553669/202871724-05f537e1-20ca-4fed-a3f4-1d784a87cf38.png">
 _20221120_005203](https://user-images.githubusercontent.com/114553669/202870190-3e8319da-2610-432e-aa7f-12d05e253f3c.png)
-
-
 
 
 * Creating the Static Web App instantly generates the .yml workflow file for you in GitHub
@@ -182,9 +174,6 @@ Step 2: Install the Azure Account & Azure App Service Extensions on your editor,
 
 
 Step 3: Create a new web app and deploy your project, all this while you are still on your editor
-
-
-
 
 Azure Static Web Apps for Visual Studio Code
 Use this extension to quickly create and manage Azure Static Web Apps directly from VS Code.
@@ -261,113 +250,46 @@ VS Code collects usage data and sends it to Microsoft to help improve our produc
 
 ![Screenshot_20221119_223834](https://user-images.githubusercontent.com/114553669/202869260-9501417f-1a4a-4365-871a-441925e257af.png)
 
-
-
 All you do is push your project change on GitHub and Azure handles the rest. (Sweet benefit of the continuous integration that comes with Azure Static Web Apps)
-
-
 
 ![Screenshot_20221119_224008](https://user-images.githubusercontent.com/114553669/202869269-4b264e2d-002f-442f-a625-4167434e7922.png)
 
-
-
-
 ![Screenshot_20221119_225009](https://user-images.githubusercontent.com/114553669/202869274-e17dde64-d01f-4afd-9959-c37f9da433e7.png)
-
-
-
 
 ![Screenshot_20221119_225024](https://user-images.githubusercontent.com/114553669/202869279-d0a7ce47-58b5-420f-a200-b21070847831.png)
 
-
-
-
 ![Screenshot_20221119_225147](https://user-images.githubusercontent.com/114553669/202869283-408ed166-b9fc-4c1e-80e0-4199bc9fdf5b.png)
 
-
-
-
 ![Screenshot_20221119_232130](https://user-images.githubusercontent.com/114553669/202869286-4cc7581b-3518-4d30-b0cc-a9f5d817a177.png)
-
-
-
-
-![Screenshot_20221120_005733](https://user-images.githubusercontent.com/114553669/202886804-546a5aea-8b57-4732-adb1-3fb67686664c.png)
-
-
-
-
-![Screenshot_20221120_093554](https://user-images.githubusercontent.com/114553669/202886819-4fe8de17-663b-4d34-b8f0-b3bf682e328c.png)
-
-
-
 
 Here we can see that deployment is successed through STATIC WEB APPS and VISUAL STUDIO CODE with the help of GITHUB
 
 
-
-
-
-
-
-
-
-
-
 these are some images related to my project SKILL-STARTER
-
-
 
 
 ![seminors](https://user-images.githubusercontent.com/114553669/198523553-19725fd8-5c62-4ba2-a2dd-2e65918b9821.png)
 73c39c39aba5.png)
 
 
-
-
 ![p2](https://user-images.githubusercontent.com/114553669/198522983-e1f0a2ea-4887-4333-9500-b92b28624a9b.jpg)
-
-
-
 
 ![p3](https://user-images.githubusercontent.com/114553669/198522989-73a04518-0182-460f-aafa-07a4a707c8f0.jpg)
 
 
-
-
 ![p4](https://user-images.githubusercontent.com/114553669/198522995-582c6767-5fc9-461e-b7e7-d701f21bde33.jpg)
-
-
-
 
 ![seminors](https://user-images.githubusercontent.com/114553669/198523003-1d80c314-2fe0-444d-b815-3ec1f8594614.png)
 
-
-
-
 ![p1](https://user-images.githubusercontent.com/114553669/198523004-5c2d33a3-6e88-46b0-b2a4-1a08b325ad86.jpg)
-
-
-
 
 ![g6](https://user-images.githubusercontent.com/114553669/198523208-3aafc75a-3e05-4b94-9490-2f1f5e538c66.jpg)
 
-
-
-
 ![g8](https://user-images.githubusercontent.com/114553669/198523223-04982db0-af35-45c0-92c8-4be85be0b072.jpg)
-
-
-
 
 ![library](https://user-images.githubusercontent.com/114553669/198523247-c60923ef-1b45-40e8-967d-d22726c387fe.png)
 
-
-
-
 ![course](https://user-images.githubusercontent.com/114553669/198523350-31655375-befe-4011-bf3e-9c6ee8d45da9.png)
-
-
 
 
 PROJECT LINK-https://salmon-tree-0159d0910.2.azurestaticapps.net
