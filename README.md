@@ -1,4 +1,4 @@
-***SKILL STARTER***
+***SKILL***
 
 
 This is my Future Ready Talent Project
