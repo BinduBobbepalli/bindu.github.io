@@ -76,9 +76,6 @@ static web app-A static site is the most basic kind of website, and the easiest 
 
 ![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_49](https://user-images.githubusercontent.com/114553669/198520274-9225c4e1-fc09-44d4-ae05-81d62cb70fae.png)
 
-![SkillStarter - Microsoft Azure - Google Chrome 28-10-2022 12_06_20](https://user-images.githubusercontent.com/114553669/198520308-ea062714-e724-40fc-ab36-bf19b568c4d9.png)![Screenshot_20221120_005653](https://user-images.githubusercontent.com/114553669/202870419-e2984fc2-6b2f-4e93-823b-84026f145967.png)
-
-![Screenshot_20221120_005710](https://user-images.githubusercontent.com/114553669/202870424-5d051d08-fa3a-4587-9cf9-8f58464bc9ac.png)
 
 
 
