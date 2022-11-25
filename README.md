@@ -92,6 +92,61 @@ Step 1: Work on your project and push it to GitHub
 
 Step 2: Create an Azure Static Web App and this step automatically generates a GitHub workflow that will always initiate deployment every time you push changes to your repository.
 
+
+
+
+Azure Account and Sign In
+The Azure Account extension provides a single Azure sign in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
+
+Signing In/Out
+There are multiple commands accessible via the command palette that may be used to sign into Azure.
+
+Sign in commands in the command palette
+
+Sign out of Azure using the Azure: Sign Out command.
+
+The sign out command in the command palette
+
+Azure Cloud Shell
+Azure Cloud Shell instances can be started via the terminal view in VS Code. To begin, click the dropdown arrow in the terminal view and select from either Azure Cloud Shell (Bash) or Azure Cloud Shell (PowerShell).
+
+VS Code terminal view with context menu
+
+If this is your first time using the Cloud Shell, the following notification will appear prompting you to set it up.
+
+"Must setup cloud shell" notification
+
+The Cloud Shell will load in the terminal view once you've finished configuring it.
+
+The Azure Cloud Shell in the terminal window
+
+You may also upload to the Cloud Shell using the Azure: Upload to Cloud Shell command.
+
+Commands
+Command	
+Azure: Sign In	Sign in to your Azure subscription.
+Azure: Sign In with Device Code	Sign in to your Azure subscription with a device code. Use this in setups where the Sign In command does not work.
+Azure: Sign In to Azure Cloud	Sign in to your Azure subscription in one of the sovereign clouds.
+Azure: Sign Out	Sign out of your Azure subscription.
+Azure: Select Subscriptions	Pick the set of subscriptions you want to work with. Extensions should respect this list and only show resources within the filtered subscriptions.
+Azure: Create an Account	If you don't have an Azure Account, you can sign up for one today and receive $200 in free credits.
+Azure: Upload to Cloud Shell1	Upload a file to your Cloud Shell storage account
+1 On Windows: Requires Node.js 6 or later to be installed (https://nodejs.org).
+
+Settings
+Name	Description	Default
+azure.resourceFilter	The resource filter, each element is a tenant id and a subscription id separated by a slash.	
+azure.showSignedInEmail	Whether to show the email address (e.g., in the status bar) of the signed in account.	true
+azure.tenant	A specific tenant to sign in to. The default is to sign in to the common tenant and use all known tenants.	
+azure.cloud	The current Azure Cloud to connect to.	Azure
+azure.ppe	Development setting: The PPE environment for testing.	
+Telemetry
+VS Code collects usage data and sends it to Microsoft to help improve our products and services. Read our privacy statement to learn more. If you don’t wish to send usage data to Microsoft, you can set the telemetry.enableTelemetry setting to false. Learn more in our FAQ.
+
+License
+MIT
+
+The Visual Studio Code logo is under the license of the Visual Studio Code product.
 ![Screenshot_20221120_005139](https://user-images.githubusercontent.com/114553669/202870150-cb0d6289-ae9d-48f2-bcee-f530d75e85d2.png)
 
 
