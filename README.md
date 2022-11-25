@@ -242,7 +242,7 @@ these are some images related to my project SKILL-STARTER
 
 
 
-PROJECT LINK-https://red-grass-019f1b210.2.azurestaticapps.net
+PROJECT LINK-https://salmon-tree-0159d0910.2.azurestaticapps.net
 
 
 GITHUB LINK-https://github.com/BinduBobbepalli/bindu.github.io
