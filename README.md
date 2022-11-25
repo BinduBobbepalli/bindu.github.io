@@ -74,10 +74,16 @@ static web app-A static site is the most basic kind of website, and the easiest 
 
 ![image](https://user-images.githubusercontent.com/114553669/198518258-d07ead46-9195-4b75-bfd9-6be4e45d1b00.png)
 
+![Screenshot_20221125_150846](https://user-images.githubusercontent.com/114553669/203981869-214dcaae-c8fc-49e6-9197-fc8654e11a82.png)
+
+![Screenshot_20221125_150812](https://user-images.githubusercontent.com/114553669/203981824-907ea13e-a460-4bc7-a933-9bc2cbfceb4d.png)
+
+![Screenshot_20221125_150949](https://user-images.githubusercontent.com/114553669/203981899-3cfdda2b-2abb-4615-b6ee-2b5de8baff41.png)![Screenshot_20221125_150611](https://user-images.githubusercontent.com/114553669/203981939-19bb2456-7b8d-4c77-a257-4155104a48c1.png)
 
 
+![Screenshot_20221125_162125](https://user-images.githubusercontent.com/114553669/203981916-7c629d13-5df7-4aa8-aa00-e6ab7a1efb03.png)![Screenshot_20221125_150728](https://user-images.githubusercontent.com/114553669/203981952-70738a35-377a-4cd1-9027-f97a5a08b601.png)
 
-
+![Screenshot_20221125_144436](https://user-images.githubusercontent.com/114553669/203981928-7ab619f3-3800-4a9e-b927-9394cf8bd7c0.png)
 
 
 
