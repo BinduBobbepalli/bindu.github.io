@@ -177,7 +177,6 @@ Here we can see that deployment is successed through STATIC WEB APPS and VISUAL 
 
 
 
-![Screenshot_20221120_094250](https://user-images.githubusercontent.com/114553669/202886842-10fcc98e-eb02-4e71-bf2a-2f8961ef1d90.png)
 
 
 
