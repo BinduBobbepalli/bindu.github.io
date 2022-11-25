@@ -156,7 +156,27 @@ MIT
 The Visual Studio Code logo is under the license of the Visual Studio Code product.
 ![Screenshot_20221120_005139](https://user-images.githubusercontent.com/114553669/202870150-cb0d6289-ae9d-48f2-bcee-f530d75e85d2.png)
 
-![Uploading Screenshot_20221125_172348.png…]()
+![Screenshot_20221125_172245](https://user-images.githubusercontent.com/114553669/203990612-71da05db-857a-446a-97e5-901a62d2d5c4.png)
+
+![Screenshot_20221125_172434](https://user-images.githubusercontent.com/114553669/203990649-e7ee80a5-f41c-4e26-ada4-a9acf8179453.png)
+
+![Screenshot_20221125_172446](https://user-images.githubusercontent.com/114553669/203990652-97a31a7c-0ea6-4def-a56f-b70cfeaacf66.png)
+
+![Screenshot_20221125_172259](https://user-images.githubusercontent.com/114553669/203990626-0657d4d9-f8a8-4fb0-9be9-17b530f74c49.png)
+
+![Screenshot_20221125_172310](https://user-images.githubusercontent.com/114553669/203990632-729a69cf-1aa3-4510-8ffe-f432dd7ce89e.png)
+
+![Screenshot_20221125_172320](https://user-images.githubusercontent.com/114553669/203990634-adf83e2c-e91a-486b-8130-229bd66b4b7d.png)
+
+![Screenshot_20221125_172334](https://user-images.githubusercontent.com/114553669/203990636-1c2cd516-6e74-46e8-b2b3-8b75a7ab7e2c.png)
+
+![Screenshot_20221125_172348](https://user-images.githubusercontent.com/114553669/203990639-5bee0ba4-d640-46e1-bcce-ffded0984a6a.png)
+
+![Screenshot_20221125_172359](https://user-images.githubusercontent.com/114553669/203990641-729c838c-5c53-4d80-a5a1-b65974472593.png)
+
+![Screenshot_20221125_172412](https://user-images.githubusercontent.com/114553669/203990642-1fa05273-269a-41c4-b071-5add56a054b7.png)
+
+![Screenshot_20221125_172423](https://user-images.githubusercontent.com/114553669/203990646-ef4de44e-3427-4463-aaa2-adf1ab64fe50.png)
 
 
 ![Screenshot_20221120_005119](https://user-images.githubusercontent.com/114553669/202870167-a00a63e7-689e-49c8-9a6d-ee12f151f466.png)
