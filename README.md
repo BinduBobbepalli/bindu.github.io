@@ -224,8 +224,6 @@ Authorize access to your GitHub account so the extension can find your repositor
 
 Authorize Access to through GitHub
 
-Authorize Access to through GitHub
-
 Select a repository and branch that will be deployed to the static web app
 
 If your local project has a remote configured, the extension will default to that repository
@@ -326,6 +324,5 @@ EMAIL ID-bindubobbepalli555@gmail.com
 
 
 Skill Starter-Code Deployment through VISUAL STUDIO CODE which belongs to AZURE SERVICE 
-
 
 DEPLOYMENT LINK-https://drive.google.com/file/d/1uuoD3x5fHFdAw4jZa6Izgl3L1RYo9RCU/view?usp=share_link
